@@ -1,0 +1,20 @@
+.tile{
+  height: 80px;
+  width: 80px;
+  background-color: black;
+}
+
+.row{
+  display: flex;
+}
+
+.App{
+  border: 1px solid black;
+  width: fit-content;
+}
+
+.tile-selected{
+  height: 80px;
+  width: 80px;
+  background-color: blue;
+}
