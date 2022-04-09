@@ -80,6 +80,8 @@ class App extends React.Component {
         </div>
         <div>
           <b>Instructions : </b> Click on the board to see the valid moves of knight from the clicked position.
+          <br/>
+          <a href='https://github.com/superstark02/chesss-board' >Github</a>
         </div>
       </div>
     );
